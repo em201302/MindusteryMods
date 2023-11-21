@@ -1,0 +1,8 @@
+name: "test-mod"
+displayName: "My First Mod"
+author: Eli Kurtis Montgomery
+description: "My first mod. Called TestMod. I looked up how to make it."
+version: "1.0"
+ninGameVersion: "146"
+dependencies: [ ]
+hidden: true
